@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding study questions 5.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-20-animal-behavior-fall-2013/1cf3751f8158edf1bc1f68ea1cb09b34_MIT9_20F13_L5_Qs.pdf
+file: /media/courses/9-20-animal-behavior-fall-2013/1cf3751f8158edf1bc1f68ea1cb09b34_MIT9_20F13_L5_Qs.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings and Viewings
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 5 Study Questions: Ethology of geese; fixed action patterns and the
   CNS'
