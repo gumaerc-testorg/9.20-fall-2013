@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 11edd880-f9e9-ee25-58b5-5b811189557d
 resourcetype: Document
 title: 'Lecture 2 Notes: Introduction to ethology; three-spined stickleback fish'
 uid: b9293ef5-16d7-728c-a782-85227408cf15

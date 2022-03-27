@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 11edd880-f9e9-ee25-58b5-5b811189557d
 resourcetype: Document
 title: "Lecture 8 Notes: Innate behavior and motivation; Lorenz on fundamentals of\
   \ ethology: The \u201Cfixed action pattern\u201D"

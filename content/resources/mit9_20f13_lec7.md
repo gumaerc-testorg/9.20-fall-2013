@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 11edd880-f9e9-ee25-58b5-5b811189557d
 resourcetype: Document
 title: 'Lecture 7 Notes: Input and output slides of innate behavior; motivation'
 uid: 6e931d4d-702c-1289-e0b7-fa6bc4a5961e

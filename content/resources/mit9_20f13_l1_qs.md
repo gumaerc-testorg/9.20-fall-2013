@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Viewings
 parent_type: CourseSection
+parent_uid: da6385f1-59b4-dc82-965c-5d4e7a75292f
 resourcetype: Document
 title: 'Lecture 1 Study Questions: Introduction: class requirements, various approaches
   to animal behavior and its study'

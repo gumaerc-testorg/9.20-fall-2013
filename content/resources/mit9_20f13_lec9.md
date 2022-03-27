@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 11edd880-f9e9-ee25-58b5-5b811189557d
 resourcetype: Document
 title: 'Lecture 9 Notes: Lorenz on fundamentals of ethology'
 uid: 8b55494f-4818-981e-633d-4899ef9145ef

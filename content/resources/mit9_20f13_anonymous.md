@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Final Projects
 parent_type: CourseSection
+parent_uid: d627ff0f-dae4-4baa-1234-102017cae64c
 resourcetype: Document
 title: 'Final student project: Bubble Net Fishing Behavior'
 uid: 3bdffdd1-c71d-7c40-9af0-dc388f3273e3

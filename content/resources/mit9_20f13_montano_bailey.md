@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Final Projects
 parent_type: CourseSection
+parent_uid: d627ff0f-dae4-4baa-1234-102017cae64c
 resourcetype: Document
 title: 'Final student project: The Pros and Cons of Subordinance in Animals'
 uid: b3862b00-1696-519e-1a0e-6046215ed9c6

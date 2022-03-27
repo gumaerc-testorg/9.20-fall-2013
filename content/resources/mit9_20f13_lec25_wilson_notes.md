@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 11edd880-f9e9-ee25-58b5-5b811189557d
 resourcetype: Document
 title: 'Lecture 25 Supplement: E.O. Wilson''s Sociobiology'
 uid: bf52cdfa-985b-cd3b-f768-d810e1477293
