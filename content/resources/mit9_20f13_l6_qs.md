@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: This file contains information regarding study questions 6.
-file: /media/courses/9-20-animal-behavior-fall-2013/40dfa8cdaf975ed9be07b55334fe5fdd_MIT9_20F13_L6_Qs.pdf
+file: /courses/9-20-animal-behavior-fall-2013/40dfa8cdaf975ed9be07b55334fe5fdd_MIT9_20F13_L6_Qs.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Viewings
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: 'Lecture 6 Study Questions: Fixed action patterns and the CNS'
 uid: 40dfa8cd-af97-5ed9-be07-b55334fe5fdd
 ---
+This file contains information regarding study questions 6.
