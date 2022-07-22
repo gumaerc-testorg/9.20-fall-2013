@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings and Viewings
 uid: da6385f1-59b4-dc82-965c-5d4e7a75292f
 ---
@@ -256,7 +259,7 @@ Communication; Meerkats of the Kalahari Desert
 
 Roberts, Monty. _The Man Who Listens to Horses: The Story of a Real-Life Horse Whisperer_. Ballantine Books, 2008, pp. 16–25, and 167–73. ISBN: 9780345510457.
 
-[_JOIN-UP®: Flight Distance and Turns with Monty Roberts_](http://www.montyrobertsuniversity.com/library). Solvang: Monty & Pat Roberts Inc., Accessed April 17, 2014. \[Digital video.\]
+[_JOIN-UP{{< sup "{{< sub \"®\" >}}" >}}: Flight Distance and Turns with Monty Roberts_](http://www.montyrobertsuniversity.com/library). Solvang: Monty & Pat Roberts Inc., Accessed April 17, 2014. \[Digital video.\]
 
 [_Meerkats United_](http://www.imdb.com/title/tt1860282/). Directed by Marion Zunz. Color, 1986. \[Distributed by BBC Worldwide. 1999. Videotape.\]
 
