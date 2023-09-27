@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the schedule of readings and viewing assignments
+  by lecture session and topic, and information on required textbooks and additional
+  textbooks, additional recommended readings, and examples of useful general texts.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -50,7 +53,7 @@ READINGS AND VIEWINGS
 
 Introduction: class requirements, various approaches to animal behavior and its study
 
-[Lecture 1 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l1_qs)
+{{% resource_link c09a4a6d-4ff9-5b9e-514d-ca32d2f5a609 "Lecture 1 Study questions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -68,7 +71,7 @@ Corbett, Jim. _Jungle Lore_. Oxford University Press, 1990, pp. 51–6, and 165�
 
 Introduction to ethology; three-spined stickleback fish
 
-[Lecture 2 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l2_qs)
+{{% resource_link 9b047492-6acc-90a0-941d-d6fa1ee29ee2 "Lecture 2 Study questions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -96,7 +99,7 @@ Secko, David. "[Big Cross Lands Sticklebacks in the Spotlight](http://www.the-sc
 
 Introduction to ethology (cont.); field studies of birds; Niko Tinbergen's questions
 
-[Lecture 3 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l3_qs)
+{{% resource_link 1a9cccc1-4d02-0c5d-a799-c9c6e40a27fd "Lecture 3 Study questions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -130,7 +133,7 @@ Ethology (cont.); Konrad Lorenz' Jackdaws.
 
 Ethology of geese; fixed action patterns and the CNS
 
-[Lecture 5 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l5_qs)
+{{% resource_link 1cf3751f-8158-edf1-bc1f-68ea1cb09b34 "Lecture 5 Study questions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -154,7 +157,7 @@ _Konrad Lorenz and His Geese_. "Wild, Wild World of Animals." PBS. 1976. \[Video
 
 Fixed action patterns and the CNS (cont.)
 
-[Lecture 6 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l6_qs)
+{{% resource_link 40dfa8cd-af97-5ed9-be07-b55334fe5fdd "Lecture 6 Study questions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -188,7 +191,7 @@ Input and output sides of innate behavior; motivation
 
 Innate behavior and motivation (cont.); Lorenz on fundamentals of ethology: The "fixed action pattern"
 
-[Lecture 8 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l8_qs)
+{{% resource_link 7e9cd87e-28d3-d921-5c1b-3d3b1824f0b7 "Lecture 8 Study questions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -206,7 +209,7 @@ Innate behavior and motivation (cont.); Lorenz on fundamentals of ethology: The 
 
 Lorenz on fundamentals of ethology (cont.)
 
-[Lecture 9–10–11 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l9_10_11_qs)
+{{% resource_link 149c021c-90dc-19dd-267f-4f54885a3667 "Lecture 9–10–11 Study questions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -224,7 +227,7 @@ Lorenz on fundamentals of ethology (cont.)
 
 Evolution; development & plasticity of behavior
 
-[Lecture 12–13 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l12_13_qs)
+{{% resource_link 16c478bb-27b6-4a6e-809e-ee8061aac5a0 "Lecture 12–13 Study questions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -248,7 +251,7 @@ Evolution; development & plasticity of behavior
 
 Communication; Meerkats of the Kalahari Desert
 
-[Lecture 14–15 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l14_15_qs)
+{{% resource_link a5a28fd4-2827-0314-3407-38d8e490e8f5 "Lecture 14–15 Study questions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -286,7 +289,7 @@ Young, Andrew J., Anne A. Carlson, et al. "[Stress and the Suppression of Subord
 
 Foraging; anti-predation behavior
 
-[Lecture 16 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l16_qs)
+{{% resource_link 5e1aa26c-7e56-d937-7d3f-439aec3e3b41 "Lecture 16 Study questions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -304,7 +307,7 @@ Foraging; anti-predation behavior
 
 Anti-predation behavior (cont.)
 
-[Lecture 17 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l17_qs)
+{{% resource_link 926d4165-2303-71b2-8d68-e547f4d2b42a "Lecture 17 Study questions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -326,7 +329,7 @@ G. E. Schneider, "Four hours in the life of a Syrian hamster" (unpublished manus
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Midterm review questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_mdtm_rvw_qs)
+{{% resource_link a8d1ad9e-9efc-51ff-e205-855bd57f4739 "Midterm review questions (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -342,7 +345,7 @@ G. E. Schneider, "Four hours in the life of a Syrian hamster" (unpublished manus
 
 Mating & reproduction
 
-[Lecture 18 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l18_qs)
+{{% resource_link eacfbf1a-2643-4106-06b6-4e647eef97cc "Lecture 18 Study questions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -360,7 +363,7 @@ Mating & reproduction
 
 Introduction to sociobiology
 
-[Lecture 19 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l19_qs)
+{{% resource_link df7168b8-9407-cd16-bd90-c14e6e1fdded "Lecture 19 Study questions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -384,7 +387,7 @@ Allen, E., B. Beckwith, et al. "[Against 'Sociobiology'](http://www.nybooks.com/
 
 Sociobiology subject matter
 
-[Lecture 20 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l20_qs)
+{{% resource_link 69fc1305-a749-9d6d-819f-543ee1935196 "Lecture 20 Study questions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -402,7 +405,7 @@ Sociobiology subject matter
 
 Genetic influences on social behavior
 
-[Lecture 21 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l21_qs)
+{{% resource_link 0eb2ef49-f0fc-70a8-f405-860445e44831 "Lecture 21 Study questions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -420,7 +423,7 @@ Genetic influences on social behavior
 
 Video: Domestic cat
 
-[Lecture 22 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l22_qs)
+{{% resource_link 48b922b2-5328-0d08-4f99-1aa5c1f256bf "Lecture 22 Study questions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -438,7 +441,7 @@ Video: Domestic cat
 
 Domestic cat; scientific method in sociobiology
 
-[Lecture 23 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l23_qs)
+{{% resource_link 12ac98ee-186c-fa19-9da9-fd2c26e15149 "Lecture 23 Study questions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -480,7 +483,7 @@ Discoveries of sociobiology (cont.)
 
 Critique of cultural determinism
 
-[Lecture 26 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l26_qs)
+{{% resource_link 79b7d398-cb5a-d585-9176-50b530621880 "Lecture 26 Study questions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -498,7 +501,7 @@ Critique of cultural determinism
 
 Sociobiology and culture; Practical issues and sociobiology
 
-[Lecture 27 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l27_qs)
+{{% resource_link 5a35ad78-d1bd-e002-052a-c5fe04312084 "Lecture 27 Study questions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -516,7 +519,7 @@ Sociobiology and culture; Practical issues and sociobiology
 
 "The triumph of sociobiology"; Konrad Lorenz on learning
 
-[Lecture 28 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l28_qs)
+{{% resource_link 072c6064-7d22-55bb-af4a-3fa10271fda6 "Lecture 28 Study questions (PDF)" %}}
 
 
 {{< tdclose >}}

@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section contains the audio lectures for the course. The recording
+  quality of this audio is the best available given the source.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Audio
