@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding study questions 6.
 file: /courses/9-20-animal-behavior-fall-2013/40dfa8cdaf975ed9be07b55334fe5fdd_MIT9_20F13_L6_Qs.pdf
+file_size: 168627
 file_type: application/pdf
 learning_resource_types:
 - Readings

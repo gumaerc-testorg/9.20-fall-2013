@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding midterm review.
 file: /courses/9-20-animal-behavior-fall-2013/a8d1ad9e9efc51ffe205855bd57f4739_MIT9_20F13_Mdtm_rvw_Qs.pdf
+file_size: 779543
 file_type: application/pdf
 learning_resource_types:
 - Readings
