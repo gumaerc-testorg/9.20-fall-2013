@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture 1.
 file: /courses/9-20-animal-behavior-fall-2013/31abc4c14da04f88731a5d3080169666_MIT9_20F13_Lec1.pdf
+file_size: 1033163
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
