@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding the pros and cons of subordinance
   in animals.
-file: /courses/9-20-animal-behavior-fall-2013/b3862b001696519e1a0e6046215ed9c6_MIT9_20F13_Montano_Bailey.pdf
+file: /ol-ocw-studio-app/courses/9-20-animal-behavior-fall-2013/b3862b001696519e1a0e6046215ed9c6_MIT9_20F13_Montano_Bailey.pdf
 file_size: 2819501
 file_type: application/pdf
 learning_resource_types:
