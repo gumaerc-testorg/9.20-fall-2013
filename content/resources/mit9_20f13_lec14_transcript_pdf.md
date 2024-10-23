@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/9-20-animal-behavior-fall-2013/mit9_20f13_lec14_transcript.pdf
+file: /ol-ocw-studio-app/courses/9-20-animal-behavior-fall-2013/mit9_20f13_lec14_transcript.pdf
 file_size: 48266
 file_type: application/pdf
 image_metadata:
