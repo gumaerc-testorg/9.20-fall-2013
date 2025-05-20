@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding birdsong sex selection.
-file: /ol-ocw-studio-app/courses/9-20-animal-behavior-fall-2013/8f02356aff5a30d53054e364caa30503_MIT9_20F13_Trent_Erika.pdf
+file: /courses/9-20-animal-behavior-fall-2013/8f02356aff5a30d53054e364caa30503_MIT9_20F13_Trent_Erika.pdf
 file_size: 1168846
 file_type: application/pdf
 learning_resource_types:

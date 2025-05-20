@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/9-20-animal-behavior-fall-2013/mit9_20f13_lec29_captions.vtt
+file: courses/9-20-animal-behavior-fall-2013/mit9_20f13_lec29_captions.vtt
 file_size: 83402
 file_type: text/vtt
 image_metadata:
