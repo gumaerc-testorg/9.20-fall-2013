@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding study questions 5.
-file: /ol-ocw-studio-app/courses/9-20-animal-behavior-fall-2013/1cf3751f8158edf1bc1f68ea1cb09b34_MIT9_20F13_L5_Qs.pdf
+file: /courses/9-20-animal-behavior-fall-2013/1cf3751f8158edf1bc1f68ea1cb09b34_MIT9_20F13_L5_Qs.pdf
 file_size: 172509
 file_type: application/pdf
 learning_resource_types:

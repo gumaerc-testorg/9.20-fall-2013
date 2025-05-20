@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding lecture 7. '
-file: /ol-ocw-studio-app/courses/9-20-animal-behavior-fall-2013/6e931d4d702c1289e0b7fa6bc4a5961e_MIT9_20F13_Lec7.pdf
+file: /courses/9-20-animal-behavior-fall-2013/6e931d4d702c1289e0b7fa6bc4a5961e_MIT9_20F13_Lec7.pdf
 file_size: 898792
 file_type: application/pdf
 learning_resource_types:
