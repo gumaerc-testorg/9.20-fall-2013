@@ -14,17 +14,17 @@ Effort on the readings and viewings is expected outside of class. Students shoul
 
 ## Required Textbooks
 
-\[Scott\] = Scott, Graham. *Essential Animal Behavior*. Wiley-Blackwell, 2004. ISBN: 9780632057993. \[Preview with [Google Books](http://books.google.com/books?id=WoYaWEbXvtYC&pg=PAfrontcover)\]
+\[Scott\] = Scott, Graham. *Essential Animal Behavior*. Wiley-Blackwell, 2004. ISBN: 9780632057993. \[Preview with {{% resource_link "a35a6fbb-5700-4362-8796-511ccab1c984" "Google Books" %}}\]
 
 \[Alcock\] = Alcock, John. *The Triumph of Sociobiology*. Oxford University Press. 2001. ISBN: 9780195143836.
 
 ## Additional Textbooks
 
-\[Tinb\] = Tinbergen, Niko. *Curious Naturalists*. Doubleday, 1958. ISBN: 9780385028813. \[Preview with [Google Books](http://books.google.com/books?id=qRql5FjHwLUC&pg=PAfrontcover)\]
+\[Tinb\] = Tinbergen, Niko. *Curious Naturalists*. Doubleday, 1958. ISBN: 9780385028813. \[Preview with {{% resource_link "35977cd8-6a97-44a6-bc39-96d770fb3b92" "Google Books" %}}\]
 
-\[King\] = Lorenz, Konrad Z. *King Solomon's Ring*. Crown, 1952. ISBN: 9780416538601. \[Preview with [Google Books](http://books.google.com/books?id=q2seF0NRfYQC&pg=PAfrontcover)\]
+\[King\] = Lorenz, Konrad Z. *King Solomon's Ring*. Crown, 1952. ISBN: 9780416538601. \[Preview with {{% resource_link "ed76eb2c-9c84-4717-8d32-e712651e0f92" "Google Books" %}}\]
 
-\[Found\] = ———. *The Foundations of Ethology*. Springer-Verlag, 1981. ISBN: 9780387816234. \[Preview with [Google Books](http://books.google.com/books?id=2Y4ptmJiGIkC&pg=PAfrontcover)\]
+\[Found\] = ———. *The Foundations of Ethology*. Springer-Verlag, 1981. ISBN: 9780387816234. \[Preview with {{% resource_link "00e4bc14-10b7-4cf1-9e69-7ed92e34cada" "Google Books" %}}\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
@@ -56,9 +56,9 @@ Introduction to ethology; three-spined stickleback fish
 
 \[Scott\] Chapter 1, pp. 1-18.
 
-Open University, British Broadcasting Corporation, Pennsylvania State University, and Encyclopaedia Britannica Educational Corporation. 1993. "[Questions About Behavior](http://www.worldcat.org/title/questions-about-behavior/oclc/29376974?referer=di&ht=edition)". Chicago, Ill: Britannica. \[videorecording\]
+Open University, British Broadcasting Corporation, Pennsylvania State University, and Encyclopaedia Britannica Educational Corporation. 1993. "{{% resource_link "c24b576e-13f4-4a06-994a-164d06fe77ae" "Questions About Behavior" %}}". Chicago, Ill: Britannica. \[videorecording\]
 
-Secko, David. "[Big Cross Lands Sticklebacks in the Spotlight](http://www.the-scientist.com/?articles.view/articleNo/16006/title/-Big-Cross--Lands-Sticklebacks-in-the-Spotlight/)." *The Scientist* 18, no. 21 (2004): 16–7.
+Secko, David. "{{% resource_link "85575595-3056-4159-b989-f1e65cf99167" "Big Cross Lands Sticklebacks in the Spotlight" %}}." *The Scientist* 18, no. 21 (2004): 16–7.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -154,19 +154,19 @@ Communication; Meerkats of the Kalahari Desert
 
 Roberts, Monty. *The Man Who Listens to Horses: The Story of a Real-Life Horse Whisperer*. Ballantine Books, 2008, pp. 16–25, and 167–73. ISBN: 9780345510457.
 
-[*JOIN-UP*](http://www.montyrobertsuniversity.com/library){{< sup "{{< sub \"®\" >}}" >}}[*: Flight Distance and Turns with Monty Roberts*](http://www.montyrobertsuniversity.com/library). Solvang: Monty & Pat Roberts Inc., Accessed April 17, 2014. \[Digital video.\]
+{{% resource_link "d8cca471-e1ea-450c-9f90-67fd80290ea6" "*JOIN-UP*" %}}{{< sup "{{< sub \"®\" >}}" >}}{{% resource_link "d8cca471-e1ea-450c-9f90-67fd80290ea6" "*: Flight Distance and Turns with Monty Roberts*" %}}. Solvang: Monty & Pat Roberts Inc., Accessed April 17, 2014. \[Digital video.\]
 
-[*Meerkats United*](http://www.imdb.com/title/tt1860282/). Directed by Marion Zunz. Color, 1986. \[Distributed by BBC Worldwide. 1999. Videotape.\]
+{{% resource_link "95fe31c9-357f-4123-aa7b-487aa8f88f6e" "*Meerkats United*" %}}. Directed by Marion Zunz. Color, 1986. \[Distributed by BBC Worldwide. 1999. Videotape.\]
 
-Thornton, Alex, and Katherine McAuliffe. "[Teaching in Wild Meerkats](http://dx.doi.org/10.1126/science.1128727)." *Science* 313, no. 5784 (2006): 227–9.
+Thornton, Alex, and Katherine McAuliffe. "{{% resource_link "9c4d4186-9c8b-46f1-9d88-6b9e460c958f" "Teaching in Wild Meerkats" %}}." *Science* 313, no. 5784 (2006): 227–9.
 
 ### Recommended
 
 Video clips of meerkats taken by conservation groups in South Africa:
 
-[*Meerkcat Magic*](https://meerkatmagic.net/). The Meerkat Magic Conservation Project–Meerkat Magic Moments in The Meerkat Magic Valley Reserve. Accessed April 17, 2014.
+{{% resource_link "e0df461f-f3a5-41db-9043-352db050ac9c" "*Meerkcat Magic*" %}}. The Meerkat Magic Conservation Project–Meerkat Magic Moments in The Meerkat Magic Valley Reserve. Accessed April 17, 2014.
 
-Young, Andrew J., Anne A. Carlson, et al. "[Stress and the Suppression of Subordinate Reproduction in Cooperatively Breeding Meerkats](http://dx.doi.org/10.1073/pnas.0510038103)." *Proceedings of the National Academy of Sciences* 103, no. 32 (2006): 12005–10.
+Young, Andrew J., Anne A. Carlson, et al. "{{% resource_link "8ac1ff60-dd04-4167-b082-d1c9a6bc3b2e" "Stress and the Suppression of Subordinate Reproduction in Cooperatively Breeding Meerkats" %}}." *Proceedings of the National Academy of Sciences* 103, no. 32 (2006): 12005–10.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
@@ -192,7 +192,7 @@ Anti-predation behavior (cont.)
 
 G. E. Schneider, "Four hours in the life of a Syrian hamster" (unpublished manuscript, last modified Oct 10, 2013), PDF file.
 
-[*Great Escapes*](http://www.imdb.com/title/tt0176786/?ref_=nm_flmg_dr_3). Directed by Marty Stouffer. Color, 1993. \[Marty Stouffer Productions Ltd., 2012. DVD.\]
+{{% resource_link "1dec5b57-d32c-4049-a7e1-54e650bf4763" "*Great Escapes*" %}}. Directed by Marty Stouffer. Color, 1993. \[Marty Stouffer Productions Ltd., 2012. DVD.\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
  
@@ -222,7 +222,7 @@ Introduction to sociobiology
 
 \[Alcock\] Chapter 1, pp. 3–21.
 
-Allen, E., B. Beckwith, et al. "[Against 'Sociobiology'](http://www.nybooks.com/articles/archives/1975/nov/13/against-sociobiology/)." *New York Review of Books*, November 1975.
+Allen, E., B. Beckwith, et al. "{{% resource_link "53756d00-c922-4354-81da-853dc109a32a" "Against 'Sociobiology'" %}}." *New York Review of Books*, November 1975.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -253,7 +253,7 @@ Video: Domestic cat
 {{% resource_link "48b922b2-5328-0d08-4f99-1aa5c1f256bf" "Lecture 22 Study questions (PDF)" %}}
 
 {{< tdclose >}}{{< tdopen >}}
-[*Cats: Caressing the Tiger*](http://www.imdb.com/title/tt0294433/). Produced by Barbara Jampel, Paula N. Kessler, Tim Kelly, and Tom Simon. Color, 54 min. 1991. \[National Geographic Video. 2010. DVD.\]
+{{% resource_link "cf7dc8bc-23ae-4fec-9bd0-7639ffa210b3" "*Cats: Caressing the Tiger*" %}}. Produced by Barbara Jampel, Paula N. Kessler, Tim Kelly, and Tom Simon. Color, 54 min. 1991. \[National Geographic Video. 2010. DVD.\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
@@ -318,11 +318,11 @@ Konrad Lorenz on learning (cont.)
 Konrad Lorenz on learning (cont.); Video: The Great Apes
 {{< tdclose >}}{{< tdopen >}}
 
-Dreyfus, Claudia. "[50 Years of Chimpanzees](http://www.nytimes.com/2010/11/16/science/16conversation.html?_r=0&adxnnl=1&adxnnlx=1397826229-Vu4tQeu+mUJ5yb3kPo7zrw)," *New York Times*, November 15, 2010.
+Dreyfus, Claudia. "{{% resource_link "55cbbbf7-c2a8-4c62-902c-c0d10a54e327" "50 Years of Chimpanzees" %}}," *New York Times*, November 15, 2010.
 
-Seyfarth, Robert M., and Dorothy L. Cheney. "[The Structure of Social Knowledge in Monkeys](http://psycnet.apa.org/psycinfo/2002-17539-046)." (PDF) *Animal Social Complexity: Intelligence, Culture, and Individualized Societies* (2003): 207–29.
+Seyfarth, Robert M., and Dorothy L. Cheney. "{{% resource_link "c38f9692-1a85-4d45-abcb-badb9ddbf033" "The Structure of Social Knowledge in Monkeys" %}}." (PDF) *Animal Social Complexity: Intelligence, Culture, and Individualized Societies* (2003): 207–29.
 
-Russon, Anne E. "[The Nature and Evolution of Intelligence in Orangutans (Pongo pygmaeus)](http://dx.doi.org/10.1007/BF02557571)." *Primates* 39, no. 4 (1998): 485–503.
+Russon, Anne E. "{{% resource_link "41a35cfb-fb1c-4163-8d38-95e160fe1dd6" "The Nature and Evolution of Intelligence in Orangutans (Pongo pygmaeus)" %}}." *Primates* 39, no. 4 (1998): 485–503.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 31
@@ -350,7 +350,7 @@ The texts listed below will not be covered in class despite their value.
 
 Corbett, Jim. *Man-Eaters of Kumaon*. Oxford, 1946.
 
-Darwin, Charles. *The Expression of the Emotions in Man and Animals*. University of Chicago Press, 1965. ISBN: 9780226136561. \[Preview with [Google Books](http://books.google.com/books?id=TFRtLZSHMcYC&pg=PAfrontcover)\]
+Darwin, Charles. *The Expression of the Emotions in Man and Animals*. University of Chicago Press, 1965. ISBN: 9780226136561. \[Preview with {{% resource_link "2f006954-a462-4b57-b4f2-fc26b1a86db4" "Google Books" %}}\]
 
 ## Examples of Useful General Texts
 
@@ -362,13 +362,13 @@ Dugatkin, Lee Alan. *Principles of Animal Behavior*. 3rd ed. W.W. Norton & Compa
 
 Wickler, W. *The Sexual Code: The Social Behavior of Animals and Men.* Translated by F. Garvie. Doubleday, 1973. ISBN: 9780385061575.
 
-Gallistel, C. R. *The Organization of Action: A New Synthesis*. Lawrence Erlbaum Associates, 1980. ISBN: 9780470269121. \[Preview with [Google Books](http://books.google.com/books?id=GLciIODszfUC&pg=PAfrontcover)\]
+Gallistel, C. R. *The Organization of Action: A New Synthesis*. Lawrence Erlbaum Associates, 1980. ISBN: 9780470269121. \[Preview with {{% resource_link "c843aa16-9309-4fb1-bbef-70d1436f319a" "Google Books" %}}\]
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262071130) ———. *The Organization of Learning (Learning, Development and Conceptual Change)*. MIT Press, 1990. ISBN: 9780262071130.
+{{% resource_link "2f23b4c7-786e-4f4d-9be4-41af058a2bc2" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. *The Organization of Learning (Learning, Development and Conceptual Change)*. MIT Press, 1990. ISBN: 9780262071130.
 
 Griffin, Donald R. *Animal Thinking*. Harvard University Press, 1984. ISBN: 9780674037120.
 
-———. *Animal Minds: Beyond Cognition to Consciousness*. University of Chicago Press, 2001. ISBN: 9780226308654. \[Preview with [Google Books](http://books.google.com/books?id=mjssc-xf9CkC&pg=PAfrontcover)\]
+———. *Animal Minds: Beyond Cognition to Consciousness*. University of Chicago Press, 2001. ISBN: 9780226308654. \[Preview with {{% resource_link "aab527d5-9075-4229-bf05-ecdffcf0f6c4" "Google Books" %}}\]
 
 Hediger, H. *Man and Animal in the Zoo.* Translated by G. Vevers, and W. Reade. Delacorte Press, 1969.
 
@@ -376,33 +376,33 @@ Hediger, H. *Man and Animal in the Zoo.* Translated by G. Vevers, and W. Reade. 
 
 Holdobler, B., and E. O. Wilson\_. The Superorganism: The Beauty, Elegance and Strangeness of Insect Societies\_. W. W. Norton & Company, 2009.
 
-Westneat, David F., and Charles W. Fox, eds. *Evolutionary Behavioral Ecology*. Oxford University Press, 2010. ISBN: 9780195331929. \[Preview with [Google Books](http://books.google.com/books?id=LSFOflkAelQC&pg=PAfrontcover)\]
+Westneat, David F., and Charles W. Fox, eds. *Evolutionary Behavioral Ecology*. Oxford University Press, 2010. ISBN: 9780195331929. \[Preview with {{% resource_link "f01ddd24-0a67-4038-8729-bb47fb975a6a" "Google Books" %}}\]
 
 Strier, Karen B. *Primate Behavioral Ecology*. 4th ed. Pearson, 2010. ISBN: 9780205790173.
 
-Maxwell, M., ed. *The Sociobiological Imagination*. State University of New York Press, 1991. ISBN: 9780791407684. \[Preview with [Google Books](http://books.google.com/books?id=9OPxMX-2h2cC&pg=PAfrontcover)\]
+Maxwell, M., ed. *The Sociobiological Imagination*. State University of New York Press, 1991. ISBN: 9780791407684. \[Preview with {{% resource_link "f10510b3-c60b-4806-8d80-bd37ef1b6f8f" "Google Books" %}}\]
 
-Ristau, C. A., and P. Marler, eds. *Cognitive Ethology: The Minds of Other Animals*. Psychology Press, 1990. ISBN: 9780805802528. \[Preview with [Google Books](http://books.google.com/books?id=OTVN2pNTaDgC&pg=PAfrontcover)\]
+Ristau, C. A., and P. Marler, eds. *Cognitive Ethology: The Minds of Other Animals*. Psychology Press, 1990. ISBN: 9780805802528. \[Preview with {{% resource_link "f512aa6a-d555-4ebb-b384-a9e04ed08c0a" "Google Books" %}}\]
 
-Wasserman, E. A., and T. R. Zentall\_. Comparative Cognition: Experimental Explorations of Animal Intelligence\_. Oxford University Press. 2006, ISBN: 9780195167658. \[Preview with [Google Books](http://books.google.com/books?id=pf78r-F4FjIC&pg=PAfrontcover)\]
+Wasserman, E. A., and T. R. Zentall\_. Comparative Cognition: Experimental Explorations of Animal Intelligence\_. Oxford University Press. 2006, ISBN: 9780195167658. \[Preview with {{% resource_link "380066d4-7095-4d39-a82c-7fdacc8fd83a" "Google Books" %}}\]
 
 ## Examples of More Specialized Books: A Few of the Older Ones
 
-Barnett, S. A. *The Rat: A Study in Behavior*. Aldine Publishing Company, 1963. \[Preview with [Google Books](http://books.google.com/books?id=Kcc-EL1WmnIC&pg=PAfrontcover)\]
+Barnett, S. A. *The Rat: A Study in Behavior*. Aldine Publishing Company, 1963. \[Preview with {{% resource_link "b76c4598-0e62-4256-aaae-0e00d68ad43e" "Google Books" %}}\]
 
 Byrne, R. W., and A. Whiten. *Machiavellian Intelligence: Social Expertise and the Evolution of Intellect in Monkeys, Apes, and Humans*. Oxford University Press, 1988. ISBN: 9780198521792.
 
 Calhoun, J. B. *The Ecology and Sociology of the Norway Rat*. U.S. Department of Health, Education, and Welfare, 1962.
 
-Cheney, D. L., and R. M. Seyfarth. *How Monkeys See the World: Inside the Mind of Another Species*. University Chicago Press, 1990. ISBN: 9780226102450. \[Preview with [Google Books](http://books.google.com/books?id=QbWTd85eHUgC&pg=PAfrontcover)\]
+Cheney, D. L., and R. M. Seyfarth. *How Monkeys See the World: Inside the Mind of Another Species*. University Chicago Press, 1990. ISBN: 9780226102450. \[Preview with {{% resource_link "e8517a0a-d23d-4a5c-ba52-a3393deafee9" "Google Books" %}}\]
 
-Eibl-Eibesfeldt, I. *Human Ethology*. Aldine Transaction, 1989. ISBN: 9780202020303. \[Preview with [Google Books](http://books.google.com/books?id=MBQGXAlZRhwC&pg=PAfrontcover)\]
+Eibl-Eibesfeldt, I. *Human Ethology*. Aldine Transaction, 1989. ISBN: 9780202020303. \[Preview with {{% resource_link "d89e2383-bd74-4a5d-9c73-f9fbea6ad373" "Google Books" %}}\]
 
-Fossey, D. *Gorillas in the Mist*. Houghton Mifflin Company, 1983. \[Preview with [Google Books](http://books.google.com/books?id=YgGzvE5QfUcC&pg=PAfrontcover)\]
+Fossey, D. *Gorillas in the Mist*. Houghton Mifflin Company, 1983. \[Preview with {{% resource_link "1d9d4eaa-b51d-4191-ace7-b05ec7f7dfc2" "Google Books" %}}\]
 
 Goodall, J. *The Chimpanzees of Gombe: Patterns of Behavior*. Belknap Press, 1986. ISBN: 9780674116498.
 
-Hrdy, S. B. *The Langurs of Abu: Female and Male Strategies of Reproduction*. Harvard University Press, 1977. ISBN: 9780674510579. \[Preview with [Google Books](http://books.google.com/books?id=NYVRhH7VywkC&pg=PAfrontcover)\]
+Hrdy, S. B. *The Langurs of Abu: Female and Male Strategies of Reproduction*. Harvard University Press, 1977. ISBN: 9780674510579. \[Preview with {{% resource_link "acc01418-2cc1-4275-a6d8-f413067ba06a" "Google Books" %}}\]
 
 ———. *Mother Nature: Maternal Instincts and How They Shape the Human Species*. Ballantine Books, 2000. ISBN: 9780345408938.
 
@@ -416,7 +416,7 @@ Leyhausen, P. *Cat Behavior: The Predatory and Social Behavior of Domestic and W
 
 Lockley, R. M. *The Private Life of the Rabbit*. HarperCollins Distribution Services, 1964. ISBN: 9780233957050.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262162418) Plater, S. M., J. P. Keenan, and T. K. Shackelford, eds. *Evolutionary Cognitive Neuroscience*. MIT Press, 2006. ISBN: 9780262162418.
+{{% resource_link "c2f371b4-cd69-4570-a45d-24716c062531" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Plater, S. M., J. P. Keenan, and T. K. Shackelford, eds. *Evolutionary Cognitive Neuroscience*. MIT Press, 2006. ISBN: 9780262162418.
 
 Roberts, M. *The Man Who Listens to Horses*. Random House, 1997. ISBN: 9780091802066.
 
@@ -424,12 +424,12 @@ Ryden, H. *Lily Pond: Four Years with a Family of Beavers*. William Morrow & Com
 
 Siegel, H. I., ed. *The Hamster: Reproduction and Behavior*. Springer, 1985. ISBN: 9780306417917.
 
-Strum, S. C. *Almost Human: A Journey into the World of Baboons*. Random House, 1987. \[Preview with [Google Books](http://books.google.com/books?id=WSHMfllj6X0C&pg=PAfrontcover)\]
+Strum, S. C. *Almost Human: A Journey into the World of Baboons*. Random House, 1987. \[Preview with {{% resource_link "a05e13ee-fa04-49bd-8df6-441f188cff22" "Google Books" %}}\]
 
 Tinbergen, Niko. *The Herring Gull’s World*. Harper & Row, 1960. ISBN: 9780061315947.
 
 Von Frisch, Karl. *Bees: Their Vision, Chemical Senses, and Language*. Cornell University Press, 1950.
 
-Wrangham, R. W., W. C. McGrew, eds. *Chimpanzee Cultures*. Harvard University Press, 1994. ISBN: 9780674116627. \[Preview with [Google Books](http://books.google.com/books?id=IzBIHPeE45IC&pg=PAfrontcover)\]
+Wrangham, R. W., W. C. McGrew, eds. *Chimpanzee Cultures*. Harvard University Press, 1994. ISBN: 9780674116627. \[Preview with {{% resource_link "9eb0cc75-ea6b-439f-a902-a203a6843877" "Google Books" %}}\]
 
-Grandin, Temple. *Animals in Translation (Using the Mysteries of Autism to Decode Animal Behavior)*. Harcourt, 2005. \[Preview with [Google Books](http://books.google.com/books?id=aMVmhqpILOAC&pg=PAfrontcover)\]
+Grandin, Temple. *Animals in Translation (Using the Mysteries of Autism to Decode Animal Behavior)*. Harcourt, 2005. \[Preview with {{% resource_link "c84952c1-0353-4f7f-82b8-93e06b209ffd" "Google Books" %}}\]
